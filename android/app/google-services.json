@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345815828881",
+    "project_id": "tree-buddy-5cf30",
+    "storage_bucket": "tree-buddy-5cf30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345815828881:android:8fcb9eb3c972eb14703230",
+        "android_client_info": {
+          "package_name": "com.example.tree_boddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345815828881-mpph3qreins77ggltt36n0uog4bfj3mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK4aBRuURUdctzQnjn71Fu7dWpQzOrpfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345815828881-mpph3qreins77ggltt36n0uog4bfj3mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
